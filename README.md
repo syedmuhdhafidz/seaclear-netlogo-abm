@@ -6,8 +6,6 @@ This NetLogo model demonstrates a small part of the proposed SeaClear workflow u
 
 ## Simulation Preview
 
-> Sscreenshot of the NetLogo **Interface** tab.
-
 ![SeaClear NetLogo discrete ABM interface](docs/images/netlogo-interface.png)
 
 ## Project Context
