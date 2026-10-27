@@ -6,13 +6,11 @@ This NetLogo model demonstrates a small part of the proposed SeaClear workflow u
 
 ## Simulation Preview
 
-> Add a screenshot of the NetLogo **Interface** tab to `docs/images/netlogo-interface.png`.
+> Sscreenshot of the NetLogo **Interface** tab.
 
 ![SeaClear NetLogo discrete ABM interface](docs/images/netlogo-interface.png)
 
 ## Project Context
-
-This model was developed as a small discrete ABM demonstration for **TEB2103 — Modelling and Simulation**.
 
 The model is based on the same SeaClear-inspired scenario used in the broader project, but it is deliberately simplified for demonstration in NetLogo. The objective is to show how autonomous agents interact in a **discrete spatial environment** using simple local rules.
 
@@ -366,7 +364,7 @@ The NetLogo version is intended as a compact demonstration of the same general s
 
 ## License
 
-Add the project license used by your repository here. The MIT License is a common permissive option for a student prototype.
+This project is licensed under the MIT License.
 
 ## References
 
